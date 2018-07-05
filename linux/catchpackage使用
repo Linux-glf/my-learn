@@ -1,0 +1,7 @@
+1.  libpcap的安装
+    yum install byacc 
+    yum install flex
+    wget http://www.tcpdump.org/release/libpcap-1.8.1.tar.gz
+    ./configure
+    make
+    sudo make install
