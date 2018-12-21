@@ -1,0 +1,2 @@
+1、下载代码跳过认证
+export GIT_SSL_NO_VERIFY=true
